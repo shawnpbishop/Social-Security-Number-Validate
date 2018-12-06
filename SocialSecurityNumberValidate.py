@@ -1,4 +1,4 @@
-
+#This program is written by Shawn Bishop.
 
 def isValid(number):
     return number[1:3].isdigit() and number[5:6].isdigit() and number[8:10].isdigit()
